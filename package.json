@@ -1,0 +1,27 @@
+{
+  "name": "cours_vm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qsort.js",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "package-lock.json": "^1.0.0",
+    "proto": "^1.0.19",
+    "qsort.js": "^0.0.6",
+    "sort": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon ./sort/qsort.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevheniimoskalenko/cours_vm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevheniimoskalenko/cours_vm/issues"
+  },
+  "homepage": "https://github.com/yevheniimoskalenko/cours_vm#readme"
+}

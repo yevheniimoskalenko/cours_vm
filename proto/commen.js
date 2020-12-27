@@ -55,8 +55,7 @@ Number.prototype.plus = function(value){
 Number.prototype.minus = function(value){
   return this - value
 }
-
 function getStr() {
-  
+
 	return [].slice.call(arguments, 1).join(arguments[0])
 }
