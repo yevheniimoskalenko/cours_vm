@@ -10,7 +10,12 @@
     "qsort.js": "^0.0.6",
     "sort": "^0.0.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.0",
+    "prettier": "^2.2.1"
+  },
   "scripts": {
     "dev": "nodemon ./sort/qsort.js"
   },
